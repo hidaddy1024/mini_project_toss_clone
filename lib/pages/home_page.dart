@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
                               bottom: 4,
                             ),
                             child: const Text(
-                              '자산',
+                              '자산(깃 시험용)',
                               style: TextStyle(
                                 color: TossColor.bluegrey,
                                 fontSize: 20,
